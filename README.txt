@@ -3,7 +3,7 @@ Node.js backend for managing student service requests, including claim submissio
 Technologies.
 
 - Node.js
-- AngularJS
+- React
 - Microsoft SQL Server
 
 Features:
